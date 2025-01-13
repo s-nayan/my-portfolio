@@ -1,9 +1,9 @@
-import About from "./components/About/About";
-import Experience from "./components/Experience/Experience";
-import Footer from "./components/Footer/Footer";
-import Home from "./components/Home/Home";
-import Navbar from "./components/Navbar/Navbar";
-import Projects from "./components/Projects/Projects";
+import About from "./components/About/About.jsx";
+import Experience from "./components/Experience/Experience.jsx";
+import Footer from "./components/Footer/Footer.jsx";
+import Home from "./components/Home/Home.jsx";
+import Navbar from "./components/Navbar/Navbar.jsx";
+import Projects from "./components/Projects/Projects.jsx";
 
 function App() {
   return (
